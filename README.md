@@ -96,28 +96,28 @@
 
 
   <!-- Stats Summary in GitHub-compatible table -->
-  <table>
+<div align="center">
+  <table style="text-align:center; background:#0d1117; color:white; border-radius:10px; border-collapse:separate; border-spacing:15px;">
     <tr>
-      <td align="center" width="200">
-        <h1>971</h1>
-        <strong>Codeforces Rating</strong>
-        <br>
-        <code>Newbie</code>
+      <td style="width:200px; padding:10px; border:1px solid #30363d; border-radius:10px;">
+        <h1 style="margin: 0; font-size: 36px; color: #58a6ff;">971</h1>
+        <strong style="font-size: 16px;">Codeforces Rating</strong><br>
+        <code style="color: #8b949e;">Newbie</code>
       </td>
-      <td align="center" width="200">
-        <h1>1462</h1>
-        <strong>LeetCode Rating</strong>
-        <br>
-        <code>Learner</code>
+      <td style="width:200px; padding:10px; border:1px solid #30363d; border-radius:10px;">
+        <h1 style="margin: 0; font-size: 36px; color: #58a6ff;">1462</h1>
+        <strong style="font-size: 16px;">LeetCode Rating</strong><br>
+        <code style="color: #8b949e;">Learner</code>
       </td>
-      <td align="center" width="200">
-        <h1>1234</h1>
-        <strong>CodeChef Rating</strong>
-        <br>
-        <code>One Star</code>
+      <td style="width:200px; padding:10px; border:1px solid #30363d; border-radius:10px;">
+        <h1 style="margin: 0; font-size: 36px; color: #58a6ff;">1234</h1>
+        <strong style="font-size: 16px;">CodeChef Rating</strong><br>
+        <code style="color: #8b949e;">One Star</code>
       </td>
     </tr>
   </table>
+</div>
+
 
   <!-- LeetCode Progress -->
   <h3>LeetCode Progress</h3>
