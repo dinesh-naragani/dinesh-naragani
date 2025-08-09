@@ -75,9 +75,9 @@
   <a href="https://www.behance.net/dineshnaragani" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
   </a>
-  <a href="https://linktr.ee/dinesh.06" target="_blank">
+<!--   <a href="https://linktr.ee/dinesh.06" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
-  </a>
+  </a> -->
 </div>
 
 ###
@@ -87,15 +87,15 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dinesh-n-06&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dinesh-n-06&radius=16&theme=gotham&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dinesh-n-06&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=dinesh-naragani&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dinesh-naragani&radius=16&theme=gotham&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dinesh-naragani&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 
 
 ###
-<img src="https://raw.githubusercontent.com/dinesh-n-06/dinesh-n-06/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/dinesh-naragani/dinesh-naragani/output/snake.svg" alt="Snake animation" />
 
 ###
 
