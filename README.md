@@ -12,7 +12,7 @@
 
 🎓 **AIML Undergrad**  
 ⚔️ **Competitive Programmer**  
-💻 **Languages:** Python, Java, C++  
+💻 **Languages:** Python, Java
 🛠️ **Skills:** Data Structures & Algorithms, Problem Solving, OOP, Git & GitHub, VS Code, APIs, Web Scraping  
 🌐 **CP Profiles:**  
 [LeetCode](https://leetcode.com/u/dxnxsh06/) • [CodeChef](https://www.codechef.com/users/dxnxsh06) • [Codeforces](https://codeforces.com/profile/dxnxsh06) • [InterviewBit](https://www.interviewbit.com/profile/dxnxsh-06/) • [AtCoder](https://atcoder.jp/users/d_nex) • [CSES](https://cses.fi/user/334483/)
@@ -28,8 +28,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
+<!--   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
